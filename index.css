@@ -27,7 +27,15 @@ body {
     padding-top: 15%;
 }
 
-
+#info {
+    margin-top: 400px;
+    height: 1000px;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+}
 
 #hivtitle2 {
     font-size: 60px;
