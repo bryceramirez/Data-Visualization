@@ -1,0 +1,127 @@
+body {
+    background-color: #121212;
+    color: #4b4949;
+    font-family: Roboto;
+    margin: 0;
+}
+
+
+#hivtitle {
+    font-family: "DM Serif Display"; 
+    font-size: 300px;
+    line-height: 0.6;
+    color: #ff0000;
+}
+
+#titleintro{
+    min-height: 1080px;
+    background-image: url('assets/static.gif');
+}
+
+#pamagat {
+    font-family: "DM Serif Display";
+    color: black;
+    text-align: center;
+    font-size: 300px;
+    line-height: 0.5;
+    padding-top: 15%;
+}
+
+
+
+#hivtitle2 {
+    font-size: 60px;
+}
+
+#titlepoint {
+    color: #af0404;
+}
+
+
+#title {
+    margin-left: 10%;
+    margin-top: 150px;
+    text-align: center;
+    line-height: 10px;
+}
+
+
+#primary-info{
+    margin-top: 200px;
+}
+
+#facts {
+    padding: 25px;
+    max-width: 500px;
+    margin-right: 25%;
+    border: 5px solid #1C1B18;
+    text-align:center;
+    font-size: 25px;
+    line-height: 1;
+}
+
+.point {
+    font-size: 40px;
+    color: #af0404;
+}
+
+
+
+#count-fact{
+    margin-top: 300px;
+    height: 700px;
+    background-image: url('assets/deathcount.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+}
+
+#count-fact-info {
+    color: white;
+    font-family: Roboto;
+    font-weight: 100;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 72px;
+    line-height: 1;
+    margin-bottom: 300px;
+}
+
+.point2 {
+    font-family: Roboto;
+    font-weight: 100;
+    color: #af0404; 
+}
+
+
+
+#graphs {
+    /* margin-top: 500px; */
+    margin: auto;
+    /* background-color: white; */
+}
+
+.graph {
+    margin-top: 300px;
+}
+
+
+#stats {
+    margin-top: 300px;
+    font-family: "DM Serif Display";
+    font-size: 150px;
+    text-align: center;
+    color: white;
+}
+
+.graph-labels {
+    font-family: "DM Serif Display";
+    color: white;
+    font-size: 48px;
+}
+
+
+.space{
+    margin-bottom: 100px;
+}
