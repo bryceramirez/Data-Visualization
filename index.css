@@ -13,6 +13,14 @@ body {
     color: #ff0000;
 }
 
+#pamagat-subtitle {
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 72px;
+    font-weight: 700;
+}
+
 #titleintro{
     min-height: 1080px;
     background-image: url('assets/static.gif');
@@ -39,12 +47,17 @@ body {
 
 #hivtitle2 {
     font-size: 60px;
+    margin-left: 80px;
 }
 
 #titlepoint {
     color: #af0404;
 }
 
+#worldgraph{
+    margin-top: 120px;
+    margin-left: -150px;
+}
 
 #title {
     margin-left: 10%;
@@ -62,6 +75,7 @@ body {
     padding: 25px;
     max-width: 500px;
     margin-right: 25%;
+    margin-top: 70px;
     border: 5px solid #1C1B18;
     text-align:center;
     font-size: 25px;
@@ -69,7 +83,7 @@ body {
 }
 
 .point {
-    font-size: 40px;
+    font-size: 25px;
     color: #af0404;
 }
 
@@ -132,7 +146,8 @@ img{
 .graph-labels {
     font-family: "DM Serif Display";
     color: white;
-    font-size: 48px;
+    font-size: 60px;
+    line-height: 3rem;
 }
 
 
@@ -140,17 +155,12 @@ img{
     margin-bottom: 100px;
 }
 
-#story1 {
-    
-    
-}
 
 .story {
     color: white;
     font-size: 48px;
     font-weight: 100;
     line-height: 3.5rem;
-    text-align: justify;
     padding: 75px;
 }
 
@@ -184,7 +194,12 @@ img{
     text-align: center;
     font-family: "DM Serif Display";
     color: white;
-    font-size: 200px;
+    font-size: 72px;
+    line-height: 3rem;
+}
+
+#shun {
+    margin-top: 250px;
 }
 
 #only {
@@ -237,4 +252,8 @@ img{
 #human {
     font-family: "DM Serif Display";
     font-size: 60px;
+}
+
+#story2 {
+    margin-top: 500px;
 }
